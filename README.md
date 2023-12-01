@@ -1,3 +1,5 @@
 # apnacollage-demo
+
 this is my First Project
-Author : Chandan Mishra
+<br>
+Author : Chandan (Sr Software Engineer)
